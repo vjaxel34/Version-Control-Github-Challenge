@@ -1,0 +1,5 @@
+1. What is a terminal? A terminal is used for commands that will let you do certain tasks such as opening a folder. 
+
+2. What is the major differnce between Git and Github? Git is a vesion management tool to help you keep track of changes made in your code. Github is cloud service that lets you manage Git respositories. 
+
+3. Why use Github? Github is useful when a user needs to collabrate with others when coding or doing a project.  
